@@ -4,5 +4,9 @@
 主要是记录Python学习代码和课后练习。
 还请各位多多指教！
 
+-----------------------
+
 Email: jamerri@163.com
+
 Nanjing Tech University
+
