@@ -3,3 +3,7 @@
 # @Author : Jamerri
 # @File : __init__.py
 
+lists = ['car', 'bus', 'motor']
+
+print(sorted(lists))
+print(sorted(lists, reverse=True))
