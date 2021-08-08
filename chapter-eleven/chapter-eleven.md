@@ -25,3 +25,27 @@ class NameTestCase(unittest.TestCase)
 unittest.main()
 ~~~
 
+## 不能通过的测试
+
+## 测试未通过时怎么办
+
+## 添加新测试
+
+# 测试类
+
+## 各种断言方法
+
+|          方法           |        用途        |
+| :---------------------: | :----------------: |
+|    assertEqual(a, b)    |     核实a == b     |
+|  assertNotEqual(a, b)   |     核实a != b     |
+|      assertTrue(x)      |    核实x为True     |
+|     assertFalse(x)      |    核实x为False    |
+|  assertIn(item, list)   |  核实item在list中  |
+| assertNotIn(item, list) | 核实item不在list中 |
+
+## 一个要测试的类
+
+## 测试AnonymousSurvey类
+
+## 方法Setup()
